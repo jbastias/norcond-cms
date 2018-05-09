@@ -1,6 +1,6 @@
 ---
 templateKey: product-page
-title: MY SHIT
+title: Hello NorCond
 image: /img/jumbotron.jpg
 heading: What we offer
 description: >-
